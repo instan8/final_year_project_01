@@ -1,14 +1,16 @@
-1.Delete flower_recog_model.keras file
+1.clone the repo.
 
-2.create virtual environment :command : 1. python -m venv myenv
+2.Delete flower_recog_model.keras file
+
+3.create virtual environment :command : 1. python -m venv myenv
 to activate virtual environment :command -> myenv\Scripts\activate
 
-3. Install Dependencies
+4. Install Dependencies
 
 pip install tenserflow numpy streamlit matplotlib
 
 
-4.set up
+5.set up
 
 run all the cell of notebook 
 
